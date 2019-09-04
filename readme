@@ -1,6 +1,6 @@
 1.Compile java project files.
 2.Run class Main
 3.Install files from resources folder to two clients on any installed web server to root folder.
-4.Copy and extract one created zip file with 25 key files to root of php files for one client and the same for second client.
+4.Copy and extract one created by Main class zip file with 25 key files to root of php files for one client and the same for second client.
 5.Run file home_form_crypt2.php from web server by first client, write message, encode and send to second client anyhow.
 Second client can decode received message and answer it.
